@@ -13,6 +13,10 @@ make
 
 ## Usage
 
+Execute binary with arguments.
+
+Argument list can be find in main.cpp file.
+
 ```bash
-./search_small
+./a.out {arguments}
 ```
