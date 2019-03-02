@@ -1,0 +1,10 @@
+CMakeFiles/
+old/
+*.cmake
+*.txt
+*.swm
+*.swn
+*.swo
+*.swp
+Makefile
+
