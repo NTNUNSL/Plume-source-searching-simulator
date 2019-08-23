@@ -2,6 +2,11 @@
 
 A toolkit to test algorithm which search plume source.
 
+## Requirement
+
+DJI Onboard-SDK for m100
+https://github.com/dji-sdk/Onboard-SDK/tree/Stable_release_for_M100
+
 ## Installation
 
 Copy main_{algorithm}.cpp to main.cpp , replace it and build.
